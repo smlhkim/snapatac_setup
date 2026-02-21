@@ -174,7 +174,6 @@ dependencies:
   - llvm-openmp=21.1.8
   - llvmlite=0.46.0
   - lz4-c=1.9.4
-  - magic-impute=3.0.0
   - markdown=3.10.2
   - markdown-it-py=4.0.0
   - markupsafe=3.0.3
@@ -236,8 +235,6 @@ dependencies:
   - pygments=2.19.2
   - pygsp=0.5.1
   - pynndescent=0.5.13
-  - pyobjc-core=12.1
-  - pyobjc-framework-cocoa=12.1
   - pyparsing=3.3.2
   - pyro-api=0.1.2
   - pyro-ppl=1.9.1
@@ -335,6 +332,7 @@ dependencies:
       - igraph==1.0.0
       - kaleido==0.2.1
       - macs3==3.0.3
+      - magic-impute=3.0.0
       - multiprocess==0.70.19
       - plotly==5.24.1
       - polars==1.38.1
